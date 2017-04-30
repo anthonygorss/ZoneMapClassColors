@@ -5,7 +5,7 @@
 ## LoadOnDemand: 1
 ## LoadWith: Blizzard_BattlefieldMinimap
 ## Creator: Ro-Hyjal via Blizzard Forums
-## Author: Bogdan-Proudmoore (US)
+## Author: Bogdan-Proudmoore(US)
 ## X-Category: Map & Minimap
 ## X-Website: https://mods.curse.com/addons/wow/257409-zonemapclasscolors
 ZoneMapClassColors.lua
